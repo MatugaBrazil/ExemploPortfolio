@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Esse projeto foi iniciado com objetivo de estudar versionamento de código pelo git 
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+
+
+Documento: Portfolio
+URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: Matheus Camilo Brazil
 License: https://bootstrapmade.com/license/
